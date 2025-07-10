@@ -82,6 +82,9 @@ O banco de dados relacional do projeto é composto por **quatro tabelas principa
 
 ---
 
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/c231f623-6e45-4e6e-9ef2-ff97a4757623" />
+
+
 ## 👤 Autor
 
 **Lucas Santos**  
